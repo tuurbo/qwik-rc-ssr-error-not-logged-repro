@@ -28,4 +28,4 @@ So the error is never logged and never reaches `next(err)`, where adapters hook 
 
 The order changed in 375559368 "fix: honor node streaming backpressure" (#8557, first in `@qwik.dev/router` 2.0.0-beta.34).
 
-Version: 2.0.0-rc.2.
+Version: 2.0.0-rc.4 (first reported on 2.0.0-rc.2).
